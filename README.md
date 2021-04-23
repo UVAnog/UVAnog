@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nolan
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning how to develop mobile and web applications using React, Git, HTML, and CSS. 
+- 📫 Email me @nolanharris.dev@gmail.com to connect
