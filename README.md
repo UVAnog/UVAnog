@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Nolan
-- 👀 I’m interested in software engineering
-- 🌱 Currently developing my skills by building mobile and web applications using React, Git, HTML, and CSS. 
+- 👀 I’m interested in software engineering and statistics
+- 🌱 Currently: software engineering intern @RepairPal developing my skills by building mobile and web applications using React, Git, HTML, CSS, and completing some small scraping / ML projects in my studies @UVA
+- 🐙 Previously: data science intern @Gamebytes
 - 📫 Email me @nolanharris.dev@gmail.com to connect
