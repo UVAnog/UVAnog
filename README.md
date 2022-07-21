@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nolan
-- 👀 I’m interested in software engineering and statistics
-- 🚀 Developing my skills by building mobile and web applications using React, Git, HTML, CSS, and completing some small scraping / ML projects in my studies @UVA
-- 🌱 Currently: software engineering intern @RepairPal 
-- 🐙 Previously: data science intern @Gamebytes
+- 👀 I’m interested in product management, software engineering, and data analysis
+- 🚀 Graudated from University of Virignia with degree in Computer Science and Data Analytics
+- 🌱 Previously: software engineering intern @RepairPal, Data Science Intern @Gamebytes
 - 📫 Email me @nolanharris.dev@gmail.com to connect
